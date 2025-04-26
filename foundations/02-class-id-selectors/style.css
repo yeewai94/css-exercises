@@ -1,0 +1,16 @@
+.odd-numbers{
+    background-color: hsl(0, 59%, 69%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#id-one{
+    color:blue;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#id-two{
+    background-color: hsl(114, 45%, 55%);
+    font-size:24px;
+    font-weight:700;
+}
